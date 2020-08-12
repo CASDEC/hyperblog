@@ -1,11 +1,6 @@
 Soy Edison Aniel Llave Calcina
 Soy de Uyuni Potosi Bolivia
 Estudiaba ADM en la Universidad Catolica
-<<<<<<< HEAD
 Experimento 1
 Experimento 2
 Master 1
-=======
-Master 1
-Master 2
->>>>>>> 49f8931... Master 2
